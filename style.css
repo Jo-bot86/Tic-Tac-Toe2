@@ -15,6 +15,7 @@ section {
 
 .cell {
 	display: inline-block;
+	overflow: hidden;
 	font-family: "Permanent Marker", cursive;
 	width: 100px;
 	height: 100px;
